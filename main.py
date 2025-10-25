@@ -1,5 +1,5 @@
 
-from simone import (
+from keypad import (
     play,
     test_leds,
 )
